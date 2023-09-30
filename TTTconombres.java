@@ -12,7 +12,7 @@ public class TTTconombres {
         Scanner scanner = new Scanner(System.in);
         String jugadorX;
         String jugadorO;
-        String prueba;
+        String pruHOLAMIGUEOLANGELeba;
         do {
             System.out.println();
             System.out.println("Hola y bienvenido a Tictactoe!");
